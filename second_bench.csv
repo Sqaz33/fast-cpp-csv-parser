@@ -1,0 +1,4 @@
+name,iterations,real_time,cpu_time,time_unit,bytes_per_second,items_per_second,label,error_occurred,error_message,"Threads","TotalLines"
+"BM_Stress_Multithreaded/2",100,3.36228e+07,0,ns,,,,,,2,2e+06
+"BM_Stress_Multithreaded/4",100,3.8035e+07,0,ns,,,,,,4,4e+06
+"BM_Stress_Multithreaded/8",100,5.51296e+07,156250,ns,,,,,,8,8e+06

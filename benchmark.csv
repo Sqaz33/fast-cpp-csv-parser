@@ -1,0 +1,5 @@
+name,iterations,real_time,cpu_time,time_unit,bytes_per_second,items_per_second,label,error_occurred,error_message,"Lines"
+"BM_LineReader_ReadLines/10000",2358,275770,271682,ns,,,,,,10000
+"BM_LineReader_ReadLines/100000",249,2.79478e+06,2.8238e+06,ns,,,,,,100000
+"BM_LineReader_ReadLines/1000000",26,2.69482e+07,2.64423e+07,ns,,,,,,130001
+"BM_LineReader_ReadLines/10000000",2,2.79921e+08,2.8125e+08,ns,,,,,,1e+07
